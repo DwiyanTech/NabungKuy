@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Nabung Kuy</string>
+    <string name="deskripsi_tambahtabungan">
+        SILAHKAN TAMBAH NOMINAL YANG INGIN ANDA TABUNG
+        JANGAN LUPA BAHAGIA :)
+    </string>
+    <string name="laptop_rog">Laptop ROG</string>
+    <string name="nominal">Rp 1.100.000</string>
+    <string name="tenggat_2_bulan">Tenggat : 2 Bulan</string>
+    <string name="perbulan">Rp.10.000/bulan</string>
+    <string name="message_setting">
+        SETEL PENGINGAT MENABUNG INI DI SET OTOMATIS SETIAP JAM 8 PAGI !
+    </string>
+    <string name="selamat_datang">Selamat Datang ,</string>
+    <string name="semangat_nabung">Semangat Menabung Yuk !</string>
+    <string name="tabungan_quote">
+        "Menabung Untuk Masa Depanmu"
+    </string>
+</resources>
